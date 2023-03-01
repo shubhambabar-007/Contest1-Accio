@@ -1,36 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+main{
+    padding-left: 38px;
+}
 nav{
     background-color: black;
-    padding: 29px 38px;
+    color: white;
+    width: 1728px;
+    height: 87px;
 } 
-body{
-    margin: 0;
+#navp{
+    width: 180px;
+    height: 29px;
+    font-weight: 300;
+    font-size: 24px;
+    padding-top: 29px;
+    padding-left: 38px;
+}
+#heading{
+    width: 600px;
+    font-size: 64px;
+    font-weight: 400;
+    padding-top: 53px;
+}
+#div2{
+    width: 1624px;
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: 300;
+    font-weight: lighter;
 }
 button{
-    background-color: black;
-    border: none    ;
+    width: 226px;
+    height: 58px;
+    background-color: #000000;
     color: white;
-    padding: 12px 48px 13px 49px;
-    margin: 93px 0;
-}
-h{
-    margin: 0;
-    font-weight: 400;
+    font-size: 24px;
+    margin-top: 85px;
+    font-weight: lighter;
 }
 img{
     width: 729px;
-    height: auto;
-    margin: 40px 0;
-
+    height: 911px;
+    margin-top: 100px;
 }
-#navp{
-    color: white;
+ol{
+    margin-top: 20px;
+    margin-left: 38px;
+    font-size: 24px;
+    font-weight: 300;
+    font-weight: lighter;
+    line-height: 29px;
 }
-main{
-    margin: 53px 66px 28px 38px;
-}
-ol, ul{
-    padding-left: 20px;
-}
-*{
-    font-family: Arial, Helvetica, sans-serif;
+ul{
+    margin-top: 20px;
+    margin-bottom: 0px;
+    margin-left: 38px;
+    font-size: 24px;
+    font-weight: 300;
+    font-weight: lighter;
+    line-height: 29px;
 }
